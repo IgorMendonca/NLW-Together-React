@@ -1,4 +1,4 @@
-<img src="https://github.com/IgorMendonca/NLW-Together-React-Letmeask-/blob/master/.github/logo.svg" style="align-items: center" />
+                          <img src="https://github.com/IgorMendonca/NLW-Together-React-Letmeask-/blob/master/.github/logo.svg" />
 
 # Getting Started with Create React App
 
